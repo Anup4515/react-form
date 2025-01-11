@@ -1,0 +1,36 @@
+body{
+
+justify-content: center;
+
+background-image: url(26089.jpg); /* Replace with your image path */
+background-size: cover;        /* Make the image cover the entire area */
+  /* Prevent the image from repeating */
+background-position: center;   
+
+}
+
+h1 {
+  text-align: center;
+  color: rgb(9, 9, 13);
+           
+}
+.container{
+  background-color: rgb(227, 232, 232);
+margin-right: 40px;
+  padding: 20px;                 /* Optional: Add padding inside the form */
+  border-radius: 10px;           /* Optional: Add rounded corners */
+               max-width: fit-content; /* Full width of the parent */
+    /* Set form width */
+              /* Center the form horizontally and vertically */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+
+}
+.input{
+  
+}
+.about{
+
+}
+.b1{
+background-color: blanchedalmond;
+}
